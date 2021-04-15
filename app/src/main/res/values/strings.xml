@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">F1HUB</string>
+    <string name="home">Home</string>
+    <string name="classement_courses">Classement courses</string>
+    <string name="classement_curies">Classement écuries</string>
+    <string name="classement_pilotes">Classement pilotes</string>
+    <string name="classement">Classement</string>
+    <string name="calendrier">Calendrier</string>
+    <string name="parse">parse</string>
 </resources>
